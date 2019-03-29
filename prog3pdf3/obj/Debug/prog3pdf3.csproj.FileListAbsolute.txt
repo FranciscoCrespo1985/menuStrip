@@ -1,0 +1,10 @@
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\bin\Debug\prog3pdf3.exe.config
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\bin\Debug\prog3pdf3.exe
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\bin\Debug\prog3pdf3.pdb
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\obj\Debug\prog3pdf3.csprojAssemblyReference.cache
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\obj\Debug\prog3pdf3.Form1.resources
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\obj\Debug\prog3pdf3.Properties.Resources.resources
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\obj\Debug\prog3pdf3.csproj.GenerateResource.cache
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\obj\Debug\prog3pdf3.csproj.CoreCompileInputs.cache
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\obj\Debug\prog3pdf3.exe
+C:\Users\Paco\source\repos\prog3pdf3\prog3pdf3\obj\Debug\prog3pdf3.pdb
